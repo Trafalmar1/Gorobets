@@ -52,6 +52,5 @@
 - 👯 I'm looking for interesting prospective projects.
 - 🤔 I'm looking for help with devops culture processes and methods.
 - 💬 Ask me about software architecture and business intelligence.
-- ⚡ Curiosity: UX | UI design, chatbots, blockchain, cryptocurrencies.
 -->
  
