@@ -44,9 +44,6 @@
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/VERCEL-222222.svg?&style=flet-square&logo=vercel&logoColor=white" /></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" /></a>
 </p>
-  
-## Skills & Endorsements
-Waiting...
 
 ## About me:
 
